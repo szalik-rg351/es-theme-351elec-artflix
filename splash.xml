@@ -24,7 +24,7 @@
 		<text name="label">
 			<fontPath>./assets/Circular Std Book.ttf</fontPath>
 			<color>FFFFFF</color>
-			<fontSize>0.023</fontSize>
+			<fontSize>0.03</fontSize>
 		</text>
 		
 		<image name="progressbar:active">
