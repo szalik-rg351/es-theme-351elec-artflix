@@ -1,6 +1,6 @@
 # Airen Theme for 351ELEC
 
-A simple theme for Emulation Station. Built and tested on 351Elec for the RG351P/M handheld.
+A simple theme for Emulation Station. Built and tested on 351Elec for the RG351V handheld.
 
 
 ## Preview
@@ -34,6 +34,7 @@ A simple theme for Emulation Station. Built and tested on 351Elec for the RG351P
 
 
 # Acknowledgments
-- 351ELEC by fewtarius (https://github.com/fewtarius/351ELEC)
+- 351ELEC Project (https://github.com/351ELEC/351ELECC)
 - Artwork by Szalik (https://github.com/szalik-rg351)
 - Layout Concept Inspired by LemFliggity
+- Xml part: anthonycaccese ( https://github.com/anthonycaccese )
